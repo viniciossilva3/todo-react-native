@@ -14,7 +14,6 @@
     "@types/uuid": "^8.3.4",
     "expo": "~46.0.9",
     "expo-checkbox": "~2.2.0",
-    "expo-font": "~10.2.0",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
