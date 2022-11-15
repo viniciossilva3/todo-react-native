@@ -59,9 +59,13 @@ $ npx expo start
 <br>
 [Expo - App Store - IOS](https://apps.apple.com/app/apple-store/id982107779)
 
-**Faça a leitura do QRCODE gerado na tela e execute a aplicação**
+**Iniciando a aplicação dentro do aplicativo do Expo**
 <br>
-O aplicativo pode demorar um pouco ao ser iniciado pela primeira vez!
+<p>
+    Abra o aplicativo do Expo que você instalou no seu celular e leia o QRCODE gerado no terminal da sua aplicação.
+    <br>
+    O aplicativo precisa carregar todos as dependências do expo ao inicializar e por isso pode demorar um pouco ao ser iniciado pela primeira vez!    
+</p>
 
 ---
 
